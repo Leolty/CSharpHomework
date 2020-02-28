@@ -1,0 +1,9 @@
+D:\VS Try\Calculator Frame\Calculator Frame\bin\Debug\Calculator Frame.exe.config
+D:\VS Try\Calculator Frame\Calculator Frame\bin\Debug\Calculator Frame.exe
+D:\VS Try\Calculator Frame\Calculator Frame\bin\Debug\Calculator Frame.pdb
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator Frame.csprojResolveAssemblyReference.cache
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator_Frame.Form1.resources
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator_Frame.Properties.Resources.resources
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator Frame.csproj.GenerateResource.Cache
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator Frame.exe
+D:\VS Try\Calculator Frame\Calculator Frame\obj\Debug\Calculator Frame.pdb

@@ -1,0 +1,6 @@
+D:\VS Try\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\VS Try\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\VS Try\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\VS Try\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+D:\VS Try\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\VS Try\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

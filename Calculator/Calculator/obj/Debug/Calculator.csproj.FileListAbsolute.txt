@@ -1,0 +1,5 @@
+D:\VS Try\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\VS Try\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VS Try\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VS Try\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\VS Try\Calculator\Calculator\obj\Debug\Calculator.pdb

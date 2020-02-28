@@ -1,0 +1,6 @@
+D:\VS Try\Eratosthenes\Eratosthenes\bin\Debug\Eratosthenes.exe.config
+D:\VS Try\Eratosthenes\Eratosthenes\bin\Debug\Eratosthenes.exe
+D:\VS Try\Eratosthenes\Eratosthenes\bin\Debug\Eratosthenes.pdb
+D:\VS Try\Eratosthenes\Eratosthenes\obj\Debug\Eratosthenes.csprojResolveAssemblyReference.cache
+D:\VS Try\Eratosthenes\Eratosthenes\obj\Debug\Eratosthenes.exe
+D:\VS Try\Eratosthenes\Eratosthenes\obj\Debug\Eratosthenes.pdb
