@@ -4,234 +4,268 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//编写面向对象程序实现长方形、正方形、三角形等形状的类。
+//每个形状类都能计算面积、判断形状是否合法。 
+//请尝试合理使用接口/抽象类、属性来实现。
+
+//随机创建10个形状对象，计算这些对象的面积之和。 
+//尝试使用简单工厂设计模式来创建对象。
+
 namespace Shape
 {
-    public interface Shape
+
+    public abstract class Shape
     {
-        double GetArea();
-        Boolean IsLegal();
+        public abstract double getArea();
+        public abstract void showArea();
     }
 
-    public class Rectangle : Shape
+    interface needCheck
     {
-        private double width;
-        private double height;
+        bool check();
+    }
 
-        public double Width
-        {
-            get
-            {
-                return width;
-            }
-            set
-            {
-                if(value <= 0)
-                {
-                    Console.WriteLine("输入不合法");
-                }
-                else
-                {
-                    width = value;
-                }
-            }
-        }
+    public class Rectangle : Shape, needCheck
+    {
+        double width;
+        double length;
 
-        public double Height
-        {
-            get
-            {
-                return height;
-            }
-            set
-            {
-                if (value <= 0)
-                {
-                    Console.WriteLine("输入不合法");
-                }
-                else
-                {
-                    height = value;
-                }
-            }
-        }
 
-        public Rectangle(double width,double height)
+        public Rectangle(double length, double width)
         {
             this.width = width;
-            this.height = height;
-        }
-
-        public double GetArea()
-        {
-            if (IsLegal())
+            this.length = length;
+            if (!check())
             {
-                return width * height;
-            }
-            else
-            {
-                return -1;
+                Console.WriteLine("Warning: Side length cannot be less than 0 ");
             }
         }
 
-        public bool IsLegal()
+        public bool check()
         {
-            if(width>0&&height>0)
+            if (width > 0 && length > 0)
             {
                 return true;
             }
             else
-            {
                 return false;
+        }
+
+        public override double getArea()
+        {
+            if (check())
+            {
+                return width * length;
+            }
+            else
+            {
+                return 0;
             }
         }
+
+
+        public override void showArea()
+        {
+            if (getArea() != 0)
+            {
+                Console.WriteLine("Rectangle's area:" + getArea());
+            }
+            else
+            {
+                Console.WriteLine("Warning: illegal rectangle's area cannot be calculated");
+                return;
+            }
+        }
+
     }
 
-    public class Square : Rectangle
+    public class Square : Shape, needCheck
     {
         double side;
 
-        public double Side
-        {
-            get
-            {
-                return side;
-            }
-            set
-            {
-                side = value;
-            }
-        }
-
-        public Square(double side) : base(side, side)
+        public Square(double side)
         {
             this.side = side;
-        }
-    }
-
-    public class Triangle : Shape
-    {
-        double a, b, c;
-        public double A
-        {
-            get
+            if (!check())
             {
-                return a;
-            }
-            set
-            {
-                a = value;
+                Console.WriteLine("Warning: Side length cannot be less than 0");
             }
         }
 
-        public double B
+        public bool check()
         {
-            get
-            {
-                return b;
-            }
-            set
-            {
-                b = value;
-            }
-        }
-
-        public double C
-        {
-            get
-            {
-                return c;
-            }
-            set
-            {
-                c = value;
-            }
-        }
-        public Triangle(double a,double b , double c)
-        {
-                this.a = a;
-                this.b = b;
-                this.c = c;
-        }
-        public double GetArea()
-        {
-            double s = (a + b + c) / 2;
-            double S = (float)Math.Sqrt(s * (s - a) * (s - b) * (s - c));
-            if (IsLegal())
-            {
-                return S;
-            }
-            else
-            {
-                return -1;
-            }    
-        }
-
-        public bool IsLegal()
-        {
-            if (a + b > c && a + c > b && b + c > a)
+            if (side > 0)
             {
                 return true;
             }
             else
-            {
                 return false;
-            }
         }
-    }
 
-    public class ShapeFactory
-    {
-        public Shape GetShape(String shapeType,double a=0.0,double b=0.0,double c=0.0)
+        public override double getArea()
         {
-            if (shapeType == null)
+            if (check())
             {
-                return null;
+                return side * side;
             }
-            shapeType = shapeType.ToUpper();
-            if ("TRIANGLE".Equals(shapeType))
+            else
             {
-                return new Triangle(a,b,c);
+                return 0;
             }
-            else if ("RECTANGLE".Equals(shapeType))
+        }
+
+        public override void showArea()
+        {
+            if (getArea() != 0)
             {
-                return new Rectangle(a,b);
+                Console.WriteLine("Square's area:" + getArea());
             }
-            else if ("SQUARE".Equals(shapeType))
+            else
             {
-                return new Square(a);
+                Console.WriteLine("Warning: illegal square's area cannot be calculated");
+                return;
             }
-            return null;
         }
     }
-    class Program
+    public class Triangle : Shape, needCheck
     {
-        static void Main(string[] args)
+        double x;
+        double y;
+        double z;
+
+        public Triangle(double x, double y, double z)
         {
-            string[] strArr = new string[3] { "RECTANGLE", "SQUARE","TRIANGLE" };
-            ShapeFactory shapeFactory = new ShapeFactory();
-            Random ran = new Random();
-            int rd = 0;
-            int i = 0;
-            double sumArea = 0.0;
-            double a, b, c;
-            while(i < 10)
+            this.x = x;
+            this.y = y;
+            this.z = z;
+            if(!(x > 0 && y > 0 && z > 0))
             {
-                rd = ran.Next(0,3);
-                a = ran.Next();
-                b = ran.Next();
-                c = ran.Next();
-                string shapeType = strArr[rd];
-                Shape shape = shapeFactory.GetShape(shapeType, a, b, c);  
-                if(shape.GetArea()!=-1)
+                Console.WriteLine("Warning: Side length can not be less than 0");
+            }
+
+        }
+
+        public bool check()
+        {
+
+            if (x > 0 && y > 0 && z > 0 && x + y > z && x + z > y && y + z > x)
+            {
+                return true;
+            }
+            else
+                return false;
+        }
+
+        public override double getArea()
+        {
+            if (check())
+            {
+                double p = (x + y + z) / 2;
+                return Math.Sqrt(p * (p - x) * (p - y) * (p - z));
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
+        public override void showArea()
+        {
+            if (getArea() != 0)
+            {
+                Console.WriteLine("Triangle's area:" + getArea());
+            }
+            else
+            {
+                Console.WriteLine("Warning: illegal triangle's area cannot be calculated");
+                return;
+            }
+        }
+
+        public class ShapeFactory
+        {
+            public Shape GetShape(String shapetype, double x = 0, double y = 0, double z = 0)
+            {
+                if (shapetype == null)
                 {
-                    sumArea += shape.GetArea();
-                    i++;
-                    Console.Write(shapeType+"面积为");
-                    Console.WriteLine(shape.GetArea());
+                    return null;
+                }
+
+                shapetype = shapetype.ToLower();
+                switch (shapetype)
+                {
+                    case "rectangle":
+                        return new Rectangle(x, y);
+
+                    case "square":
+                        return new Square(x);
+
+                    case "triangle":
+                        return new Triangle(x, y, z);
+
+                    default:
+                        return null;
                 }
             }
-            Console.WriteLine("总面积"+sumArea);
-            Console.ReadKey();
         }
+
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                Rectangle rec1 = new Rectangle(7.2, 8.7);
+                rec1.showArea();
+
+                Rectangle rec2 = new Rectangle(-7.2, 8.7);
+                rec2.showArea();
+
+                Square squ1 = new Square(5);
+                squ1.showArea();
+
+                Square squ2 = new Square(0);
+                squ2.showArea();
+
+                Triangle tri1 = new Triangle(6, 6, 6);
+
+                tri1.showArea();
+                Triangle tri2 = new Triangle(3, 5, 9);
+
+                tri2.showArea();
+
+                Triangle tri3 = new Triangle(-1, 9, 9);
+                tri3.showArea();
+
+
+                Console.WriteLine();
+                Console.WriteLine("————————————————————————————————");
+                Console.WriteLine();
+
+                String[] type = new string[3] { "rectangle", "square", "triangle" };
+                ShapeFactory shapeFactory = new ShapeFactory();
+                Random ran = new Random();
+                int i = 0;
+                int rd = 0;
+                double x = 0;
+                double y = 0;
+                double z = 0;
+                double sumArea = 0;
+                while (i < 10)
+                {
+                    rd = ran.Next(0, 3);
+                    x = 100 * ran.NextDouble();//Avoid overflow
+                    y = 100 * ran.NextDouble();
+                    z = 100 * ran.NextDouble();
+                    string shapetype = type[rd];
+                    Shape shape = shapeFactory.GetShape(shapetype, x, y, z);
+                    if (shape.getArea() != 0)
+                    {
+                        sumArea += shape.getArea();
+                        i++;
+                        Console.WriteLine("Shape"+i+": "+shapetype + "  Area：" + shape.getArea());
+                    }
+                }
+                Console.WriteLine("Summarized Area: " + sumArea);               
+            }
+        }       
     }
 }
