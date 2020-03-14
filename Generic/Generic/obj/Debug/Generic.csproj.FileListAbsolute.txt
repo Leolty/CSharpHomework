@@ -1,0 +1,6 @@
+D:\VS Try\Generic\Generic\bin\Debug\Generic.exe.config
+D:\VS Try\Generic\Generic\bin\Debug\Generic.exe
+D:\VS Try\Generic\Generic\bin\Debug\Generic.pdb
+D:\VS Try\Generic\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+D:\VS Try\Generic\Generic\obj\Debug\Generic.exe
+D:\VS Try\Generic\Generic\obj\Debug\Generic.pdb
