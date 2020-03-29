@@ -1,0 +1,9 @@
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\OrderManagementTests1.dll
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\OrderManagementTests1.pdb
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\OrderManagement.exe
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\OrderManagement.pdb
+D:\VS Try\OrderManagement\OrderManagementTests1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\VS Try\OrderManagement\OrderManagementTests1\obj\Debug\OrderManagementTests1.csprojResolveAssemblyReference.cache
+D:\VS Try\OrderManagement\OrderManagementTests1\obj\Debug\OrderManagementTests1.dll
+D:\VS Try\OrderManagement\OrderManagementTests1\obj\Debug\OrderManagementTests1.pdb

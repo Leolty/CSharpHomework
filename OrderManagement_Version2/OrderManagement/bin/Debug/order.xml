@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <order_name>LEO</order_name>
+    <order_id>0001</order_id>
+    <order_time>2020-03-27T16:56:44.9461308+08:00</order_time>
+    <orderItemList>
+      <OrderItem>
+        <item_name>APPLE</item_name>
+        <item_price>7.2</item_price>
+        <item_num>1</item_num>
+        <item_id>1001</item_id>
+      </OrderItem>
+      <OrderItem>
+        <item_name>IPAD</item_name>
+        <item_price>10299</item_price>
+        <item_num>3</item_num>
+        <item_id>3002</item_id>
+      </OrderItem>
+    </orderItemList>
+  </Order>
+</ArrayOfOrder>

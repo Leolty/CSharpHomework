@@ -1,0 +1,6 @@
+D:\VS Try\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\VS Try\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+D:\VS Try\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\VS Try\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojResolveAssemblyReference.cache
+D:\VS Try\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+D:\VS Try\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
