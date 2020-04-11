@@ -1,0 +1,13 @@
+D:\VS Try\OrderForm\OrderForm\bin\Debug\OrderForm.exe.config
+D:\VS Try\OrderForm\OrderForm\bin\Debug\OrderForm.exe
+D:\VS Try\OrderForm\OrderForm\bin\Debug\OrderForm.pdb
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.csprojResolveAssemblyReference.cache
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.Form1.resources
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.Cache
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.exe
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.pdb
+D:\VS Try\OrderForm\OrderForm\bin\Debug\OrderApp.exe
+D:\VS Try\OrderForm\OrderForm\bin\Debug\OrderApp.pdb
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.AddOrderForm.resources
+D:\VS Try\OrderForm\OrderForm\obj\Debug\OrderForm.AddItemOrderForm.resources
