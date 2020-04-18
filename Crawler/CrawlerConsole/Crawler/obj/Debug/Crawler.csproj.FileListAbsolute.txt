@@ -1,0 +1,9 @@
+D:\VS Try\Crawler\Crawler\bin\Debug\Crawler.exe.config
+D:\VS Try\Crawler\Crawler\bin\Debug\Crawler.exe
+D:\VS Try\Crawler\Crawler\bin\Debug\Crawler.pdb
+D:\VS Try\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+D:\VS Try\Crawler\Crawler\obj\Debug\Crawler.exe
+D:\VS Try\Crawler\Crawler\obj\Debug\Crawler.pdb
+D:\GitRepos\CSharpHomework\Crawler\CrawlerConsole\Crawler\bin\Debug\Crawler.exe.config
+D:\GitRepos\CSharpHomework\Crawler\CrawlerConsole\Crawler\obj\Debug\Crawler.exe
+D:\GitRepos\CSharpHomework\Crawler\CrawlerConsole\Crawler\obj\Debug\Crawler.pdb
