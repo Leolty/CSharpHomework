@@ -7,12 +7,3 @@ D:\VS Try\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.res
 D:\VS Try\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csproj.GenerateResource.Cache
 D:\VS Try\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.exe
 D:\VS Try\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.pdb
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.exe.config
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.exe
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.pdb
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.exe
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\bin\Debug\CrawlerForm.pdb
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csprojResolveAssemblyReference.cache
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.Form1.resources
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.resources
-D:\GitRepos\CSharpHomework\Crawler\CrawlerForm\CrawlerForm\obj\Debug\CrawlerForm.csproj.GenerateResource.Cache
