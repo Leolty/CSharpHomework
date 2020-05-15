@@ -1,0 +1,71 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderForm\obj\Debug\OrderForm.FormItemEdit.resources
+E:\QQDownload\Homework8\OrderForm\bin\Debug\OrderForm.exe.config
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.exe
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.pdb
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.csprojResolveAssemblyReference.cache
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.FormItemEdit.resources
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+E:\QQDownload\Homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.Cache
+E:\QQDownload\Homework8\OrderForm\bin\Debug\OrderForm.exe
+E:\QQDownload\Homework8\OrderForm\bin\Debug\OrderForm.pdb
+E:\QQDownload\Homework8\OrderForm\bin\Debug\OrderApp.exe
+E:\QQDownload\Homework8\OrderForm\bin\Debug\OrderApp.pdb
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\OrderForm.exe.config
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.exe
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.pdb
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\OrderForm.exe
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\OrderForm.pdb
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\OrderApp.exe
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\OrderApp.pdb
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.csprojResolveAssemblyReference.cache
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.FormItemEdit.resources
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.FormMain.resources
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+D:\VS Try\OrderFormDB\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.Cache
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\EntityFramework.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Google.Protobuf.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\MySql.Data.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\MySql.Data.EntityFramework.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Renci.SshNet.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Buffers.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Memory.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Numerics.Vectors.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Ubiety.Dns.Core.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Zstandard.Net.dll
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\EntityFramework.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Google.Protobuf.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Compression.LZ4.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\K4os.Hash.xxHash.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\MySql.Data.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\MySql.Data.EntityFramework.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\Renci.SshNet.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Buffers.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Memory.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Numerics.Vectors.xml
+D:\VS Try\OrderFormDB\OrderForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

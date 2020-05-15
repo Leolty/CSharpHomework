@@ -1,0 +1,45 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\obj\Debug\OrderApp.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework8\OrderService\bin\Debug\OrderApp.pdb
+E:\QQDownload\Homework8\OrderService\obj\Debug\OrderApp.exe
+E:\QQDownload\Homework8\OrderService\obj\Debug\OrderApp.pdb
+E:\QQDownload\Homework8\OrderService\bin\Debug\OrderApp.exe.config
+E:\QQDownload\Homework8\OrderService\bin\Debug\OrderApp.exe
+E:\QQDownload\Homework8\OrderService\bin\Debug\OrderApp.pdb
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\OrderApp.exe.config
+D:\VS Try\OrderFormDB\OrderService\obj\Debug\OrderApp.exe
+D:\VS Try\OrderFormDB\OrderService\obj\Debug\OrderApp.pdb
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\OrderApp.exe
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\OrderApp.pdb
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\EntityFramework.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Google.Protobuf.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\MySql.Data.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\MySql.Data.EntityFramework.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Renci.SshNet.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Buffers.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Memory.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Ubiety.Dns.Core.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Zstandard.Net.dll
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\EntityFramework.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Google.Protobuf.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Compression.LZ4.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\K4os.Hash.xxHash.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\MySql.Data.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\MySql.Data.EntityFramework.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Renci.SshNet.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Buffers.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Memory.xml
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS Try\OrderFormDB\OrderService\obj\Debug\OrderService.csprojResolveAssemblyReference.cache
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\Google.Protobuf.pdb
