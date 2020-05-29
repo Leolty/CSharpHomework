@@ -41,5 +41,10 @@ namespace OrderForm {
     private void comboBox1_SelectedIndexChanged(object sender, EventArgs e) {
       ItemBindingSource.ResetBindings(false);
     }
-  }
+
+    private void btnOK_Click(object sender, EventArgs e)
+        {
+            OrderItem = new OrderItem(1, GoodsService.GetAll()[comboBox1.SelectedIndex], int.Parse(txtQuantity.Text));
+        }
+    }
 }

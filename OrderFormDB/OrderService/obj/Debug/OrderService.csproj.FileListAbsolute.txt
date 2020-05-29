@@ -43,3 +43,4 @@ D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Memory.xml
 D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\VS Try\OrderFormDB\OrderService\obj\Debug\OrderService.csprojResolveAssemblyReference.cache
 D:\VS Try\OrderFormDB\OrderService\bin\Debug\Google.Protobuf.pdb
+D:\VS Try\OrderFormDB\OrderService\bin\Debug\System.ComponentModel.dll

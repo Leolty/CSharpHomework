@@ -153,8 +153,8 @@
             // txtOrderId
             // 
             this.txtOrderId.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtOrderId.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.orderBindingSource, "OrderId", true));
-            this.txtOrderId.Location = new System.Drawing.Point(154, 4);
+            this.txtOrderId.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.orderBindingSource, "Id", true));
+            //this.txtOrderId.Location = new System.Drawing.Point(154, 4);
             this.txtOrderId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtOrderId.Name = "txtOrderId";
             this.txtOrderId.Size = new System.Drawing.Size(510, 28);
